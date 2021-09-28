@@ -10,5 +10,5 @@ layout: default
 
 <br>
 
-[google classroom link ](https://classroom.google.com/u/0/h)
+{% include 03-image.md %}
 
