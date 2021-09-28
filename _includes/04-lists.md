@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* autumn weather 
+* Tea 
+* abayas 
+* my parents 
+* the Quran 
+* rain
