@@ -10,5 +10,5 @@ layout: default
 
 <br>
 
-{% include 03-links.md %}
+[google classroom link ](https://classroom.google.com/u/0/h)
 
